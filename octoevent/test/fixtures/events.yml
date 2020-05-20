@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id_git: 1
+  node_id: MyString
+  url: MyString
+  html_url: MyString
+  event_type: one
+
+two:
+  id_git: 1
+  node_id: MyString
+  url: MyString
+  html_url: MyString
+  event_type: two
