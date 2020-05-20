@@ -5,22 +5,22 @@
 #   git config --global core.excludesfile '~/.gitignore_global'
 
 # Ignore bundler config.
-/octoevents/.bundle
+/octoevent/.bundle
 
 # Ignore all logfiles and tempfiles.
-/octoevents/log/*
-/octoevents/tmp/*
-!/octoevents/log/.keep
-!/octoevents/tmp/.keep
+/octoevent/log/*
+/octoevent/tmp/*
+!/octoevent/log/.keep
+!/octoevent/tmp/.keep
 
 # Ignore uploaded files in development.
-/octoevents/storage/*
-!/octoevents/storage/.keep
+/octoevent/storage/*
+!/octoevent/storage/.keep
 .byebug_history
 
 # Ignore master key for decrypting credentials and more.
-/octoevents/config/master.key
+/octoevent/config/master.key
 
 #enviorements
 .env
-/octoevents/config/application.yml
+/octoevent/config/application.yml
